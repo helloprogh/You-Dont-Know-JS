@@ -30,7 +30,7 @@
   * [第六章](this & object prototypes/ch6.md)
   * [附录A](this & object prototypes/apA.md)
   * [附录B](this & object prototypes/apB.md)
-* 类型与文法
+* [类型与文法](lei-xing-yu-wen-fa.md)
   * [简介](types & grammar/README.md)
   * [第一章](types & grammar/ch1.md)
   * [第二章](types & grammar/ch2.md)
@@ -50,7 +50,7 @@
   * [附录A](async & performance/apA.md)
   * [附录B](async & performance/apB.md)
   * [附录C](async & performance/apC.md)
-* ES6与未来
+* [ES6与未来](es6yu-wei-lai.md)
   * [简介](es6 & beyond/README.md)
   * [第一章](es6 & beyond/ch1.md)
   * [第二章](es6 & beyond/ch2.md)
